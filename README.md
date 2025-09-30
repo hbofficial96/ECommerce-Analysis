@@ -567,42 +567,6 @@ df = pd.read_csv('data.csv', encoding='latin1')
 - "Champions segment drives 45% of revenue with targeted retention"
 - "Projected 20% increase in CLV with segment-specific campaigns"
 
-### GitHub Repository Best Practices
-
-1. **README.md** - Clear, visual, compelling
-2. **Clean Code** - Well-commented, PEP 8 compliant
-3. **Documentation** - This guide as reference
-4. **Visualizations** - High-quality, professional charts
-5. **Reproducibility** - requirements.txt, clear instructions
-
-### Questions to Prepare For
-
-1. **Why RFM over other segmentation methods?**
-   - Simple, interpretable, actionable
-   - Proven framework in retail/e-commerce
-   - No need for complex feature engineering
-
-2. **How did you handle missing data?**
-   - Removed 25% with missing CustomerID (can't segment without ID)
-   - Documented decision and impact on analysis
-
-3. **Why K-Means instead of other clustering algorithms?**
-   - Efficient, scalable, well-understood
-   - Works well with continuous numeric features
-   - Easy to interpret centroids
-
-4. **How would you deploy this in production?**
-   - Automated ETL pipeline (Airflow)
-   - Daily RFM score updates
-   - Dashboard integration (Tableau/Power BI)
-   - Marketing automation triggers
-
-5. **What would you do differently with more time?**
-   - Product recommendation system
-   - Churn prediction model
-   - Time series forecasting
-   - A/B testing framework
-
 ---
 
 ## 📈 Success Metrics
@@ -627,5 +591,3 @@ This project demonstrates:
 - [SQL Performance Tuning](https://www.sqlite.org/optoverview.html)
 
 ---
-
-**Good luck with your portfolio project! 🚀**

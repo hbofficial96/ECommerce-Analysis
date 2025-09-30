@@ -1,0 +1,30 @@
+# E-commerce Analysis Project - Python Dependencies
+# ===================================================
+# Install with: pip install -r requirements.txt
+
+# Core Data Analysis
+pandas>=1.5.0
+numpy>=1.23.0
+
+# Database
+#sqlite3  # Built-in with Python, no install needed
+
+# Visualization
+matplotlib>=3.6.0
+seaborn>=0.12.0
+
+# Machine Learning
+scikit-learn>=1.1.0
+
+# Jupyter Notebook
+jupyter>=1.0.0
+notebook>=6.5.0
+ipykernel>=6.16.0
+
+# Optional but recommended
+openpyxl>=3.0.10  # For Excel file support
+xlrd>=2.0.1       # For older Excel formats
+
+# Code Quality (optional)
+black>=22.10.0    # Code formatter
+pylint>=2.15.0    # Linter

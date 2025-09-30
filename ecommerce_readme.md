@@ -58,20 +58,6 @@ Four distinct customer segments identified:
 | **At-Risk** | 31% | Haven't purchased recently, previously active | High priority - re-engagement campaigns |
 | **Lost Customers** | 19% | Long time since last purchase, low engagement | Low priority - win-back campaigns |
 
-## 📈 Visualizations
-
-### Sales Trends Over Time
-![Monthly Sales Trend](images/monthly_sales_trend.png)
-
-### Top 10 Products by Revenue
-![Top Products](images/top_products.png)
-
-### Customer Segmentation Distribution
-![Customer Segments](images/customer_segments.png)
-
-### RFM Score Distribution
-![RFM Analysis](images/rfm_heatmap.png)
-
 ## 💡 Business Recommendations
 
 ### 1. Customer Retention Strategy
@@ -211,12 +197,6 @@ This project demonstrates proficiency in:
 - [ ] Integrate sentiment analysis from product reviews
 - [ ] Develop automated email marketing trigger system
 
-## 👤 Author
-
-**Your Name**
-- LinkedIn: [your-profile](https://linkedin.com/in/your-profile)
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Portfolio: [yourwebsite.com](https://yourwebsite.com)
 
 ## 📄 License
 
